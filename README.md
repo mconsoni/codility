@@ -1,2 +1,2 @@
-# codility
+# Codility lessons
 Codility lessons - No warranty 
